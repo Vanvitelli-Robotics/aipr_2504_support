@@ -1,4 +1,4 @@
-# Simulatore ROS2 per compito 01/2025 -- *b*
+# Simulatore ROS2 per compito 04/2025
 
 [![N|Solid](https://www.unicampania.it/doc/img/logo_vanvitelli.jpg)](https://www.ingegneria.unicampania.it/roboticslab)
 
